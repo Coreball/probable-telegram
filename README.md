@@ -1,3 +1,3 @@
 # probable-telegram
 
-hellow nerds!
+hello nerds!
